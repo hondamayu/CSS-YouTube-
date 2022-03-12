@@ -1,0 +1,26 @@
+.box {
+  width: 700px;
+  height: 200px;
+  background-color: #E4E4E4;
+  background-image: url(images/logo-dummy.png);
+  background-repeat: no-repeat;
+}
+
+.scroll {
+  background-attachment: scroll;
+}
+
+.fixed {
+  background-attachment: fixed;
+}
+
+.local {
+  background-attachment: local;
+}
+
+div {
+  background-image: url(images/IMG_5772.JPG);
+  width: 800px;
+  height: 200px;
+  overflow: scroll;
+}

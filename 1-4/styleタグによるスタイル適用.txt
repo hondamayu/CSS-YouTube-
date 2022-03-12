@@ -1,0 +1,5 @@
+# styleタグを使う
+
+## styleタグ
+headの中に記述
+type="text/css"が必要

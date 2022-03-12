@@ -1,0 +1,12 @@
+@charset "utf-8";
+body{
+  padding: 1em 6em;
+}
+
+
+h1{
+  font-weight: normal;
+}
+p{
+  font-weight: bold;
+}

@@ -1,0 +1,18 @@
+
+div {
+  margin: 50px auto;
+  font: 1.1em/1.5 sans-serif;
+  box-sizing: border-box;
+}
+
+html { height: 100%; }
+
+.box {
+  width: 80%;
+  height: 500px;
+  padding: 30px;
+  background: url('img/IMG_5772.JPG') no-repeat;
+  border: 15px solid rgba(35,66,97,.6);
+  background-size: cover;
+  background-clip: content-box;
+}

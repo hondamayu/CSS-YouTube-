@@ -1,0 +1,24 @@
+@charset "utf-8";
+body{
+  padding: 8% 25%;
+  margin: 0;
+}
+
+p{
+  margin: 0;
+  background-color: black;
+  color: white;
+  text-align: justify;
+}
+
+div{
+  border: dotted 10px tomato;
+}
+
+
+p{
+  margin-top: -30px;
+  margin-right: -30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
